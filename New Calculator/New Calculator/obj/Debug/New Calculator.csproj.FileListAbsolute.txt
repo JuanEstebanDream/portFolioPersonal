@@ -1,0 +1,15 @@
+D:\Proyectos\Csharpp\WebAppPractice\New Calculator\New Calculator\bin\Debug\New Calculator.exe.config
+D:\Proyectos\Csharpp\WebAppPractice\New Calculator\New Calculator\bin\Debug\New Calculator.exe
+D:\Proyectos\Csharpp\WebAppPractice\New Calculator\New Calculator\bin\Debug\New Calculator.pdb
+D:\Proyectos\Csharpp\WebAppPractice\New Calculator\New Calculator\obj\Debug\New Calculator.csproj.AssemblyReference.cache
+D:\Proyectos\Csharpp\WebAppPractice\New Calculator\New Calculator\obj\Debug\MainWindow.g.cs
+D:\Proyectos\Csharpp\WebAppPractice\New Calculator\New Calculator\obj\Debug\App.g.cs
+D:\Proyectos\Csharpp\WebAppPractice\New Calculator\New Calculator\obj\Debug\New Calculator_MarkupCompile.cache
+D:\Proyectos\Csharpp\WebAppPractice\New Calculator\New Calculator\obj\Debug\New Calculator_MarkupCompile.lref
+D:\Proyectos\Csharpp\WebAppPractice\New Calculator\New Calculator\obj\Debug\MainWindow.baml
+D:\Proyectos\Csharpp\WebAppPractice\New Calculator\New Calculator\obj\Debug\New Calculator.g.resources
+D:\Proyectos\Csharpp\WebAppPractice\New Calculator\New Calculator\obj\Debug\New_Calculator.Properties.Resources.resources
+D:\Proyectos\Csharpp\WebAppPractice\New Calculator\New Calculator\obj\Debug\New Calculator.csproj.GenerateResource.cache
+D:\Proyectos\Csharpp\WebAppPractice\New Calculator\New Calculator\obj\Debug\New Calculator.csproj.CoreCompileInputs.cache
+D:\Proyectos\Csharpp\WebAppPractice\New Calculator\New Calculator\obj\Debug\New Calculator.exe
+D:\Proyectos\Csharpp\WebAppPractice\New Calculator\New Calculator\obj\Debug\New Calculator.pdb

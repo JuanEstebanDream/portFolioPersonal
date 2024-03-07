@@ -1,0 +1,15 @@
+D:\Proyectos\Csharpp\WebAppPractice\PiedraPapelTijera\PiedraPapelTijera\bin\Debug\PiedraPapelTijera.exe.config
+D:\Proyectos\Csharpp\WebAppPractice\PiedraPapelTijera\PiedraPapelTijera\bin\Debug\PiedraPapelTijera.exe
+D:\Proyectos\Csharpp\WebAppPractice\PiedraPapelTijera\PiedraPapelTijera\bin\Debug\PiedraPapelTijera.pdb
+D:\Proyectos\Csharpp\WebAppPractice\PiedraPapelTijera\PiedraPapelTijera\obj\Debug\PiedraPapelTijera.csproj.AssemblyReference.cache
+D:\Proyectos\Csharpp\WebAppPractice\PiedraPapelTijera\PiedraPapelTijera\obj\Debug\MainWindow.g.cs
+D:\Proyectos\Csharpp\WebAppPractice\PiedraPapelTijera\PiedraPapelTijera\obj\Debug\App.g.cs
+D:\Proyectos\Csharpp\WebAppPractice\PiedraPapelTijera\PiedraPapelTijera\obj\Debug\PiedraPapelTijera_MarkupCompile.cache
+D:\Proyectos\Csharpp\WebAppPractice\PiedraPapelTijera\PiedraPapelTijera\obj\Debug\PiedraPapelTijera_MarkupCompile.lref
+D:\Proyectos\Csharpp\WebAppPractice\PiedraPapelTijera\PiedraPapelTijera\obj\Debug\MainWindow.baml
+D:\Proyectos\Csharpp\WebAppPractice\PiedraPapelTijera\PiedraPapelTijera\obj\Debug\PiedraPapelTijera.g.resources
+D:\Proyectos\Csharpp\WebAppPractice\PiedraPapelTijera\PiedraPapelTijera\obj\Debug\PiedraPapelTijera.Properties.Resources.resources
+D:\Proyectos\Csharpp\WebAppPractice\PiedraPapelTijera\PiedraPapelTijera\obj\Debug\PiedraPapelTijera.csproj.GenerateResource.cache
+D:\Proyectos\Csharpp\WebAppPractice\PiedraPapelTijera\PiedraPapelTijera\obj\Debug\PiedraPapelTijera.csproj.CoreCompileInputs.cache
+D:\Proyectos\Csharpp\WebAppPractice\PiedraPapelTijera\PiedraPapelTijera\obj\Debug\PiedraPapelTijera.exe
+D:\Proyectos\Csharpp\WebAppPractice\PiedraPapelTijera\PiedraPapelTijera\obj\Debug\PiedraPapelTijera.pdb

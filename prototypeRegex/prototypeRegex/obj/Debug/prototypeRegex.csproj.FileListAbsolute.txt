@@ -1,0 +1,15 @@
+D:\Proyectos\Csharpp\WebAppPractice\prototypeRegex\prototypeRegex\bin\Debug\prototypeRegex.exe.config
+D:\Proyectos\Csharpp\WebAppPractice\prototypeRegex\prototypeRegex\bin\Debug\prototypeRegex.exe
+D:\Proyectos\Csharpp\WebAppPractice\prototypeRegex\prototypeRegex\bin\Debug\prototypeRegex.pdb
+D:\Proyectos\Csharpp\WebAppPractice\prototypeRegex\prototypeRegex\obj\Debug\prototypeRegex.csproj.AssemblyReference.cache
+D:\Proyectos\Csharpp\WebAppPractice\prototypeRegex\prototypeRegex\obj\Debug\MainWindow.g.cs
+D:\Proyectos\Csharpp\WebAppPractice\prototypeRegex\prototypeRegex\obj\Debug\App.g.cs
+D:\Proyectos\Csharpp\WebAppPractice\prototypeRegex\prototypeRegex\obj\Debug\prototypeRegex_MarkupCompile.cache
+D:\Proyectos\Csharpp\WebAppPractice\prototypeRegex\prototypeRegex\obj\Debug\prototypeRegex_MarkupCompile.lref
+D:\Proyectos\Csharpp\WebAppPractice\prototypeRegex\prototypeRegex\obj\Debug\MainWindow.baml
+D:\Proyectos\Csharpp\WebAppPractice\prototypeRegex\prototypeRegex\obj\Debug\prototypeRegex.g.resources
+D:\Proyectos\Csharpp\WebAppPractice\prototypeRegex\prototypeRegex\obj\Debug\prototypeRegex.Properties.Resources.resources
+D:\Proyectos\Csharpp\WebAppPractice\prototypeRegex\prototypeRegex\obj\Debug\prototypeRegex.csproj.GenerateResource.cache
+D:\Proyectos\Csharpp\WebAppPractice\prototypeRegex\prototypeRegex\obj\Debug\prototypeRegex.csproj.CoreCompileInputs.cache
+D:\Proyectos\Csharpp\WebAppPractice\prototypeRegex\prototypeRegex\obj\Debug\prototypeRegex.exe
+D:\Proyectos\Csharpp\WebAppPractice\prototypeRegex\prototypeRegex\obj\Debug\prototypeRegex.pdb
